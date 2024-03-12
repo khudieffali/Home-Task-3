@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|d:\\praktikant\\garagetask\\home task\\hometaskc#3\\hometaskc#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|solutionrelative:hometaskc#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\Program.cs",
+              "RelativeDocumentMoniker": "HomeTaskC#3\\Program.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\Program.cs",
+              "RelativeToolTip": "HomeTaskC#3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T18:10:25.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
