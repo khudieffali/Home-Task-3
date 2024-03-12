@@ -95,7 +95,6 @@
 
 //int k=0;
 //int k1=0;
-//int k2 = 0;
 
 //Console.WriteLine("1 ci noqtenin x ve y deyerlerini daxil edin:");
 //int x= Convert.ToInt32(Console.ReadLine());
