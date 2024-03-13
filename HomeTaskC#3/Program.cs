@@ -93,11 +93,11 @@
 
 #region Task Lab2
 
-//int k=0;
-//int k1=0;
+//int k = 0;
+//int k1 = 0;
 
 //Console.WriteLine("1 ci noqtenin x ve y deyerlerini daxil edin:");
-//int x= Convert.ToInt32(Console.ReadLine());
+//int x = Convert.ToInt32(Console.ReadLine());
 //int y = Convert.ToInt32(Console.ReadLine());
 
 //Console.WriteLine("2 ci noqtenin x ve y deyerlerini daxil edin:");
@@ -108,14 +108,17 @@
 //int x2 = Convert.ToInt32(Console.ReadLine());
 //int y2 = Convert.ToInt32(Console.ReadLine());
 
-//k =( y1 - y) / (x1 - x);
+//k = (y1 - y) / (x1 - x);
 //k1 = (y2 - y1) / (x2 - x1);
 
-//if (k == k1 )
+//if (k == k1)
 //{
 //    Console.WriteLine("Hamisi bir xettin uzerine dusur");
 //}
 #endregion
+
+
+
 
 
 
