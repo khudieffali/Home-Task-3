@@ -8,9 +8,9 @@ namespace HomeTaskC_3
 {
     internal class Home_Task_C_Methods
     {
-        static void Main(string[] args)
+        //static void Main(string[] args)
 
-        {
+        //{
             #region Task1
             //IsPrime(12);
             #endregion
@@ -27,7 +27,7 @@ namespace HomeTaskC_3
             //}
             #endregion
 
-        }
+        //}
         #region Task1
         //static void IsPrime(int value)
         //{

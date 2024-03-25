@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|d:\\praktikant\\garagetask\\home task\\hometaskc#3\\hometaskc#3\\home task c#methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|solutionrelative:hometaskc#3\\home task c#methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|d:\\praktikant\\garagetask\\home task\\hometaskc#3\\hometaskc#3\\hometaskc#refout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|solutionrelative:hometaskc#3\\hometaskc#refout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|d:\\praktikant\\garagetask\\home task\\hometaskc#3\\hometaskc#3\\hometaskc#5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|solutionrelative:hometaskc#3\\hometaskc#5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|d:\\praktikant\\garagetask\\home task\\hometaskc#3\\hometaskc#3\\home task c#methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|solutionrelative:hometaskc#3\\home task c#methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68C9B200-8B22-4D1F-B377-B09831E9ABC4}|HomeTaskC#3\\HomeTaskC#3.csproj|d:\\praktikant\\garagetask\\home task\\hometaskc#3\\hometaskc#3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeTaskC#RefOut.cs",
+              "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\HomeTaskC#RefOut.cs",
+              "RelativeDocumentMoniker": "HomeTaskC#3\\HomeTaskC#RefOut.cs",
+              "ToolTip": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\HomeTaskC#RefOut.cs",
+              "RelativeToolTip": "HomeTaskC#3\\HomeTaskC#RefOut.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T08:30:02.037Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,14 +49,14 @@
               "RelativeDocumentMoniker": "HomeTaskC#3\\HomeTaskC#5.cs",
               "ToolTip": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\HomeTaskC#5.cs",
               "RelativeToolTip": "HomeTaskC#3\\HomeTaskC#5.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAVAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBUAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T11:53:42.876Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\Program.cs",
               "RelativeDocumentMoniker": "HomeTaskC#3\\Program.cs",
@@ -47,18 +64,17 @@
               "RelativeToolTip": "HomeTaskC#3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T11:53:40.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T11:53:40.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Home Task C#Methods.cs",
               "DocumentMoniker": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\Home Task C#Methods.cs",
               "RelativeDocumentMoniker": "HomeTaskC#3\\Home Task C#Methods.cs",
               "ToolTip": "D:\\Praktikant\\GarageTask\\Home Task\\HomeTaskC#3\\HomeTaskC#3\\Home Task C#Methods.cs",
               "RelativeToolTip": "HomeTaskC#3\\Home Task C#Methods.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T11:47:02.214Z",
               "EditorCaption": ""
