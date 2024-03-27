@@ -11,8 +11,8 @@ namespace HomeTaskC_3
 {
     internal class HomeTaskC_RefOut
     {
-        static void Main(string[] args)
-        {
+        //static void Main(string[] args)
+        //{
             #region Task 1
             //ReverseString("Ali Sadat Nicat Mirqubad");
             #endregion
@@ -39,10 +39,10 @@ namespace HomeTaskC_3
             //bool check=GetPolindrom(input);
             //if (check) Console.WriteLine("Uygun");
             //else Console.WriteLine("Uygun deyil");
-            
+
 
             #endregion
-        }
+        //}
 
         #region Task 1
         //static void ReverseString(string str)
@@ -129,4 +129,4 @@ namespace HomeTaskC_3
         #endregion
 
     }
-}
+    }

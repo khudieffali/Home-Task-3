@@ -1,4 +1,43 @@
-﻿#region Task1
+﻿using HomeTaskC_3;
+
+class program
+{
+    static void Main(string[] args)
+    {
+        #region Task Person Class  1
+        //Person person = new("Ali", "Xudiyev", 17);
+        //Console.WriteLine(person.IsAdult);
+        #endregion
+
+        #region Task Car Class 2
+        //Cars car = new("Mercedes-Benz", "E300", 2017, "Benzin", "Qara");
+        //car.PrintInfo(car);
+        #endregion
+
+        #region Task Car and Motorcycle Class 3
+        //Car2 car = new("Mercedes-Benz", "E300", 2017, 100, 4);
+        //Motorcycle motor=new("Bmw", "530", 2015, 250, false);
+        //static void CheckSpeed(int speed)
+        //{
+        //    if (speed > 110) Console.WriteLine("Suret Oldurur");
+        //    else Console.WriteLine("Bele davam edin");
+        //}
+        //CheckSpeed(car.MaxSpeed);
+        //CheckSpeed(motor.MaxSpeed);
+        #endregion
+
+        #region User class 4
+        //User user = new("Ali", "Xudiyev", "+994553053232", "ali.xudiyev98@gmail.com", "");
+        //Console.WriteLine(user.IsPassword(user.Password));
+        #endregion
+
+    }
+}
+
+
+
+
+#region Task1
 
 //Task - 1 Verilmiş array-də tək ədədlərin sayını tapmaq və çap etmək. Məsələn: [1, 2, 3, 4, 5, 6, 7] => Tək ədədlərin sayı: 4
 
@@ -116,6 +155,7 @@
 //    Console.WriteLine("Hamisi bir xettin uzerine dusur");
 //}
 #endregion
+
 
 
 
